@@ -1,0 +1,13 @@
+#debug: true
+#server:
+#  port: 9090
+#
+okta:
+  oauth2:
+    issuer: https://dev-8031977.okta.com/oauth2/default
+    clientId: 0oaakjbf6DUVjxRxW5d6
+    clientSecret: Dciu1U2OKVaYNnSvOeV7-abk3R68asF1QDWVhhWM
+    scopes: 'email profile openid'
+spring:
+#  thymeleaf:
+#    cache: false
